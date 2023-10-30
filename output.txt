@@ -1,0 +1,11 @@
+Script started on Mon Oct 30 17:25:10 2023
+[lewisev@r1n10 CISC372_picProject]$ ./image pic1.jpg edge
+Took 8 seconds
+[lewisev@r1n10 CISC372_picProject]$ ./pthread_image pic1.jpg edge
+Took 7 seconds
+[lewisev@r1n10 CISC372_picProject]$ ./openmp_image pic1.jpg edge
+Took 7 seconds
+[lewisev@r1n10 CISC372_picProject]$ exit
+exit
+
+Script done on Mon Oct 30 17:25:53 2023
